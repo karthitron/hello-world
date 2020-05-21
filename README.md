@@ -1,2 +1,7 @@
 # hello-world
-this is my first repository
+
+Hi,
+
+This is Karthikeyan Selvaraj writing my first repository in github.
+
+Thanks
